@@ -7,4 +7,4 @@ As well watched a lots of youtube tutorial and read bolg like geeksforgeeks,dev.
 
 Watched Tutorial -
 1. [Linked List Data Structure](https://youtu.be/4tU7d0TTiZQ)
-2. [ Linked List Questions ] (https://youtu.be/cL4gHVuFOvk)
+2. [ Linked List Questions ](https://youtu.be/cL4gHVuFOvk)
