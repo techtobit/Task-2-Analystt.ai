@@ -8,3 +8,7 @@ As well watched a lots of youtube tutorial and read bolg like geeksforgeeks,dev.
 Watched Tutorial -
 1. [Linked List Data Structure](https://youtu.be/4tU7d0TTiZQ)
 2. [ Linked List Questions ](https://youtu.be/cL4gHVuFOvk)
+
+I have seen a few similar problem/interview qustion on `LEETCODE` -
+
+![I solved it on leetcode](https://i.ibb.co/1s0bxZs/leadcode.png)
